@@ -1,0 +1,20 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Can I Use",
+		"CSS3",
+		"EditorConfig",
+		"Emmet",
+		"Hayaku - tools for writing CSS faster",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint"
+	]
+}
